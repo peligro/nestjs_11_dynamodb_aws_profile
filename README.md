@@ -34,6 +34,11 @@ MVP práctico de nestjs 11 con DynamoDB
 ## 4. Ésto está pensado para una conexión sin usuario y contraseña IAM:<br/>
 <ul>
     <li>
-    Por ejemplo: arn:aws:iam::{ID IAM}:role/nombre-de-rol-en-aws
+    Por ejemplo: arn:aws:iam::{ID IAM}:role/nombre-de-rol-en-aws<br/>
+    El profile local que se debe usar es:
+        <ul>
+            <li>AWS_PROFILE=http://localhost:8000</li>
+            <li>AWS_REGION=localhost</li>
+        </ul>
     </li>
 </ul>
