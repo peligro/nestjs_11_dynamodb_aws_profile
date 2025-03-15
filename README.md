@@ -9,23 +9,23 @@ MVP práctico de nestjs 11 con DynamoDB
 <hr/>
 ## 2. Librerías utilizadas
 <ul>
-<li>
-- Nest client:<br/>
-<code>npm i -g @nestjs/cli</code>
-</li>
-<li>
-- Nest config:<br/>
-<code>npm i --save @nestjs/config</code>
-</li>
-<li>
-- Nest aws para dynamo:<br/>
-<code>npm install @aws-sdk/client-dynamodb @aws-sdk/lib-dynamodb</code>
-</li>
- <li>
-- Nest uuid:<br/>
-<code>npm i --save uuid</code>
-</li>
-
+    <li>
+    - Nest client:<br/>
+    <code>npm i -g @nestjs/cli</code>
+    </li>
+    <li>
+    - Nest config:<br/>
+    <code>npm i --save @nestjs/config</code>
+    </li>
+    <li>
+    - Nest aws para dynamo:<br/>
+    <code>npm install @aws-sdk/client-dynamodb @aws-sdk/lib-dynamodb</code>
+    </li>
+    <li>
+    - Nest uuid:<br/>
+    <code>npm i --save uuid</code>
+    </li>
+</ul>
 <hr/>
 ## 3. Para instalar DynamoDB localmente usé:<br/>
 <ul>
